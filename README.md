@@ -1,7 +1,7 @@
-![Header](https://github.com/susanoo-10011/susanoo-10011/blob/master/assets/VakAF.gif)
+﻿![Header](https://github.com/susanoo-10011/susanoo-10011/blob/master/assets/VakAF.gif)
 
+## Hi 👋, I'm susanoo.
 
-About me
 
 Languages and Tools
 
