@@ -8,6 +8,6 @@
 
 
 ### Follow Me
-![Vkontakte](https://vk.com/cycaho)
-![Telegram](https://t.me/coaslem)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=VK&logoColor=4F7DB3)](https://vk.com/cycaho)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/coaslem)
 
