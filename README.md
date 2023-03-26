@@ -2,7 +2,12 @@
 
 ## Hi 👋, I'm susanoo.
 
-### Follow Me
+### Languages and Tools
 
+![.Net](https://img.shields.io/badge/-Framework-0747a8?style=for-the-badge&logo=.Net&logoColor=fcfdff)
+
+
+### Follow Me
 ![Vkontakte](https://vk.com/cycaho)
 ![Telegram](https://t.me/coaslem)
+
