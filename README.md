@@ -6,12 +6,14 @@
 * 😇 I get high from the learning process
 * 📈 I am not experienced enough yet, but I plan to program trading robots in the future.
 * 🎯 I am very diligent and persistent, so I always achieve my goals
-* 💪 And I also like to go to the gym.
+* 💪 And I also like to go to the gym. 
 
 ### Languages and Tools
 
-![.Net](https://img.shields.io/badge/-Framework-0747a8?style=for-the-badge&logo=.Net&logoColor=fcfdff)
-![Git](https://img.shields.io/badge/-Git-d7d7d7?style=for-the-badge&logo=Git&logoColor=f4833f)
+![.Net](https://img.shields.io/badge/-Framework-272728?style=for-the-badge&logo=.Net&logoColor=fcfdff)
+![Git](https://img.shields.io/badge/-Git-272728?style=for-the-badge&logo=Git&logoColor=f4833f)
+![C#](https://img.shields.io/badge/-C%23-272728?style=for-the-badge&logo=CSharp&logoColor=ad05fc)
+
 
 
 ### Follow Me
