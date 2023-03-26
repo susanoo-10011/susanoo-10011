@@ -2,7 +2,7 @@
 
 ## Hi 👋, I'm susanoo.
 
+### Follow Me
 
-Languages and Tools
-
-Follow Me
+![Vkontakte](https://vk.com/cycaho)
+![Telegram](https://t.me/coaslem)
