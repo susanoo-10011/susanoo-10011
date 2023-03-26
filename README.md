@@ -2,6 +2,12 @@
 
 ## Hi 👋, I'm susanoo.
 
+* 😃 I’m currently learning C# and .Net.
+* 😇 I get high from the learning process
+* 📈 I am not experienced enough yet, but I plan to program trading robots in the future.
+* 🎯 I am very diligent and persistent, so I always achieve my goals
+* 💪 And I also like to go to the gym.
+
 ### Languages and Tools
 
 ![.Net](https://img.shields.io/badge/-Framework-0747a8?style=for-the-badge&logo=.Net&logoColor=fcfdff)
