@@ -5,7 +5,7 @@
 ### Languages and Tools
 
 ![.Net](https://img.shields.io/badge/-Framework-0747a8?style=for-the-badge&logo=.Net&logoColor=fcfdff)
-![Git](https://img.shields.io/badge/-Git-c3c3c3?style=for-the-badge&logo=Git&logoColor=f4833f)
+![Git](https://img.shields.io/badge/-Git-d7d7d7?style=for-the-badge&logo=Git&logoColor=f4833f)
 
 
 ### Follow Me
